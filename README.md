@@ -1,2 +1,3 @@
-# cais-code
-Code Analysis &amp; Information Security
+# CAIS Code
+
+Homework software for MMXIX's Code Analysis &amp; Information Security class.
